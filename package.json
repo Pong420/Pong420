@@ -21,7 +21,7 @@
     "typeface-open-sans": "^1.1.13",
     "typeface-raleway": "^1.1.13",
     "typeface-roboto": "^1.1.13",
-    "video.js": "7.14.3",
+    "video.js": "^8.10.0",
     "videojs-plus": "^1.6.9"
   },
   "devDependencies": {
@@ -52,5 +52,15 @@
     "sass": "^1.62.0",
     "typescript": "^5.0.4",
     "webpack": "^5.80.0"
+  },
+  "resolutions": {
+    "lodash": "^4.18.0",
+    "immutable": "^3.8.3",
+    "loader-utils": "^1.4.2",
+    "json5": "^1.0.2",
+    "serialize-javascript": "^7.0.5",
+    "path-to-regexp": "^0.1.13",
+    "webpack": "^5.106.2",
+    "@parcel/reporter-dev-server": "^2.16.4"
   }
 }
