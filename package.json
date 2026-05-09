@@ -21,7 +21,7 @@
     "typeface-open-sans": "^1.1.13",
     "typeface-raleway": "^1.1.13",
     "typeface-roboto": "^1.1.13",
-    "video.js": "^8.10.0",
+    "video.js": "^8.16.1",
     "videojs-plus": "^1.6.9"
   },
   "devDependencies": {
@@ -54,13 +54,14 @@
     "webpack": "^5.80.0"
   },
   "resolutions": {
-    "lodash": "^4.18.0",
-    "immutable": "^3.8.3",
-    "loader-utils": "^1.4.2",
-    "json5": "^1.0.2",
-    "serialize-javascript": "^7.0.5",
-    "path-to-regexp": "^0.1.13",
-    "webpack": "^5.106.2",
-    "@parcel/reporter-dev-server": "^2.16.4"
+    "lodash": "4.17.21",
+    "immutable": "3.8.3",
+    "loader-utils": "2.0.4",
+    "json5": "1.0.2",
+    "serialize-javascript": "6.0.2",
+    "path-to-regexp": "0.1.10",
+    "webpack": "5.94.0",
+    "yaml": "2.5.1",
+    "@parcel/reporter-dev-server": "2.12.0"
   }
 }
